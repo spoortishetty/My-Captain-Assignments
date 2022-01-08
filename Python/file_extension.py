@@ -8,7 +8,7 @@ myDict = {
 filename = input("Input the Filename: ")
 extens = filename.split(".")
 x = myDict[(extens[-1])]
-print ("The extension of the file is :",repr(x) )    
+print ("The extension of the file is :","'",x,"'")    
 
 
 #NOTE: The above program is done w.r.t the question's sample output i.e.
@@ -22,7 +22,7 @@ print ("The extension of the file is :",repr(x) )
 
 filename = input("Input the Filename: ")
 extens = filename.split(".")
-print ("The extension of the file is :",repr(extens[-1]))
+print ("The extension of the file is :","'",(extens[-1]),"'")
 
 
 
