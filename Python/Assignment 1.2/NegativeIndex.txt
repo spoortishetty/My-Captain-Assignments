@@ -1,0 +1,5 @@
+- Positive and negative integers can be used to access Python arrays and list items (index)
+
+- If our array/list is of size n, the first index will be 0, the second will be 1, and the last index will be n-1. The first negative index is -n, the second is -(n-1), and the last negative index is – 1.
+
+- A negative index accesses elements from the end of the list counting backwards.

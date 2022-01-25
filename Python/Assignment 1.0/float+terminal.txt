@@ -1,0 +1,16 @@
+Float datatype is derived from floating point number which is a representation of a number that includes both an integer part and a fractional part. 
+It is one of the possible representations of what is often called real numbers.
+
+A floating point number is commonly stored in two parts. One part is the mantissa, which contains the digits of the value. 
+The other part is called the exponent, which expresses the magnitude of the value. 
+
+
+*Command to open apps from terminal
+
+----> cd [filepath]
+----> start [filename.exe]
+
+For eg. 
+To open chrome:
+----> cd C:\Program Files\Google
+----> start chrome.exe
